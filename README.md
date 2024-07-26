@@ -31,7 +31,7 @@ The app leverages advanced AI technologies, including the Google Gemini API, to 
      ```bash
      python scraper.py
      ```
-   - If you are using a Mac, you may need to use:
+   - If the above command does not work, try:
      ```bash
      python3 scraper.py
      ```
