@@ -17,6 +17,7 @@ The app leverages advanced AI technologies, including the Google Gemini API, to 
 2. **Set Up Gemini API Key**
    - Obtain your Gemini API Key from the [Google Gemini API official website](https://ai.google.dev/gemini-api/docs/api-key).
    - Open `geminiService.jsx` and insert your API key at the `API_KEY` variable on the second line.
+   - Also `open scraper.py` and insert your API key at the `API_KEY` variable on the second line.
 
 3. **Install Node.js Packages**
    - In the terminal, ensure you are in the project directory.
