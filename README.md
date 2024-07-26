@@ -49,6 +49,3 @@ The app leverages advanced AI technologies, including the Google Gemini API, to 
 
 7. **Enjoy the App!**
    - Start exploring dishes and recipes with Recipify.
-
-
-Nice
